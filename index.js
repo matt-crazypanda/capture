@@ -1,0 +1,1 @@
+exports.screenshot = require('./src/save-screenshot');
